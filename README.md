@@ -8,14 +8,14 @@
 
 The best CS2 config ever created on  earth!
 
-![ingame](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/ingame.gif?raw=true)
+![ingame](ingame.gif?raw=true)
 
 ## 🚀 Features
 
 - ✅ Interactive in-game commands like `!knife`, `!vm`, `!bhop`, `!surf`,`!hud`,`!cw`,`!warmup`
 - ✅ Knife selection menu for sv_cheats enabled servers
 
-![knifemenushowcase](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/knifeshowcase.gif?raw=true)
+![knifemenushowcase](knifeshowcase.gif?raw=true)
 
 - ✅ Sets up a custom warmup mode with infinite ammo, no freeze time, buy anywhere, etc.
 - ✅ Bhop and Surf modes
@@ -78,9 +78,9 @@ The best CS2 config ever created on  earth!
 
 ## Showcases
 
-![ingame](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/ingame.gif?raw=true)
+![ingame](ingame.gif?raw=true)
 
-![knifemenushowcase](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/knifeshowcase.gif?raw=true)
+![knifemenushowcase](knifeshowcase.gif?raw=true)
 
 ### Author
 
