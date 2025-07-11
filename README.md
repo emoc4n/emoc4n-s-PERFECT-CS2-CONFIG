@@ -8,7 +8,7 @@
 
 The best CS2 config ever created on  earth!
 
-![ingame](https://assets.digitalocean.com/articles/alligator/boo.svg "In GAME")
+![ingame](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/ingame.gif?raw=true"In GAME")
 
 ## 🚀 Features
 
