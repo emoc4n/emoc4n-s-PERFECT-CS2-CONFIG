@@ -15,7 +15,7 @@ The best CS2 config ever created on  earth!
 - ✅ Interactive in-game commands like `!knife`, `!vm`, `!bhop`, `!surf`,`!hud`,`!cw`,`!warmup`
 - ✅ Knife selection menu for sv_cheats enabled servers
 
-![knifemenushowcase](https://assets.digitalocean.com/articles/alligator/boo.svg "Knife Menu Showcase")
+![knifemenushowcase](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/knifeshowcase.gif?raw=true)
 
 - ✅ Sets up a custom warmup mode with infinite ammo, no freeze time, buy anywhere, etc.
 - ✅ Bhop and Surf modes
@@ -78,9 +78,9 @@ The best CS2 config ever created on  earth!
 
 ## Showcases
 
-![ingame](https://assets.digitalocean.com/articles/alligator/boo.svg "In GAME")
+![ingame](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/ingame.gif?raw=true)
 
-![knifemenushowcase](https://assets.digitalocean.com/articles/alligator/boo.svg "Knife Menu Showcase")
+![knifemenushowcase](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/blob/main/knifeshowcase.gif?raw=true)
 
 ### Author
 
