@@ -1,5 +1,5 @@
 
-![Logo](https://yt3.googleusercontent.com/FZKugZNRvhF2Z269JSd32tGVIWcmSomeqrj5Rn47Y484Rb9EgN4p1t26ZHaDyKVtwcxR2L7fp2s=s120-c-k-c0x00ffffff-no-rj)
+![Logo](logo.png)
 
     
 # 🎚️ 𝖊𝖒𝖔𝖈4𝖓'𝗌 𝖯𝖤𝖱𝖥𝖤𝖢𝖳 𝖢𝖲2 𝖢𝖮𝖭𝖥𝖨𝖦 
