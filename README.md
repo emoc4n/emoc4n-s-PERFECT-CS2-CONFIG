@@ -50,7 +50,7 @@ The best CS2 config ever created on  earth!
 
 ## Installation
 
-1. [Download]() or clone this repo.
+1. [Download](https://github.com/emoc4n/emoc4n-s-PERFECT-CS2-CONFIG/releases/download/release/emoc4n.cfg) or clone this repo.
 
 2. Navigate to your CS2 config directory:
    ```
